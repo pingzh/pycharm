@@ -12,6 +12,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorLeft">
@@ -46,6 +47,16 @@
   </action>
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
