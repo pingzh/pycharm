@@ -3,7 +3,4 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\b(todo|fixme)\b.*" />
-  </component>
 </application>
